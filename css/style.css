@@ -22,9 +22,6 @@ iframe {
 address, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, nav, menu, nav, section, summary {
   display: block;
 }
-*{
-    overflow: hidden
-}
 .body{
   background-color:rgb(124,90,127);
 }
