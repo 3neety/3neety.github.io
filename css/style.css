@@ -50,6 +50,7 @@ address, article, aside, canvas, details, figcaption, figure, footer, header, hg
   height:25%;
   border-radius: 100%;
   max-height:100vh;
+  overflow:visible;  
 }
 .fa{
   color:rgba(246,232,234,0.6);7
@@ -60,12 +61,14 @@ address, article, aside, canvas, details, figcaption, figure, footer, header, hg
     font-size:3em;
     -webkit-animation: flames 0.75s infinite alternate;
           animation: flames 0.75s infinite alternate;
+    overflow:visible;
 }
 #after{
     float:right;
     margin-right:1em;
     margin-top:2em;
     font-size:3em;
+    overflow:visible;
     -webkit-animation: flames 0.75s infinite alternate;
           animation: flames 0.75s infinite alternate;
 } 
